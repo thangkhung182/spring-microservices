@@ -1,0 +1,16 @@
+2022-10-16 22:48:08,877 INFO org.springframework.boot.StartupInfoLogger [main] Starting ReviewServiceApplication using Java 17.0.4.1 on TrungNguyensMBP.lan with PID 57204 (/Users/trungnguyen/my_workspace/spring-microservices/microservices/review-service/build/classes/java/main started by trungnguyen in /Users/trungnguyen/my_workspace/spring-microservices)
+2022-10-16 22:48:08,878 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-16 22:48:09,452 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-16 22:48:09,571 INFO org.springframework.boot.web.embedded.netty.NettyWebServer [main] Netty started on port 7003
+2022-10-16 22:48:09,579 INFO org.springframework.boot.StartupInfoLogger [main] Started ReviewServiceApplication in 0.869 seconds (JVM running for 1.138)
+2022-10-16 22:49:27,239 INFO org.springframework.boot.StartupInfoLogger [main] Starting ReviewServiceApplication using Java 17.0.4.1 on TrungNguyensMBP.lan with PID 57228 (/Users/trungnguyen/my_workspace/spring-microservices/microservices/review-service/build/classes/java/main started by trungnguyen in /Users/trungnguyen/my_workspace/spring-microservices)
+2022-10-16 22:49:27,240 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-16 22:49:27,743 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-16 22:49:27,847 INFO org.springframework.boot.web.embedded.netty.NettyWebServer [main] Netty started on port 7003
+2022-10-16 22:49:27,855 INFO org.springframework.boot.StartupInfoLogger [main] Started ReviewServiceApplication in 0.775 seconds (JVM running for 1.024)
+2022-10-16 22:49:58,812 INFO org.springframework.boot.StartupInfoLogger [main] Starting ReviewServiceApplication using Java 17.0.4.1 on TrungNguyensMBP.lan with PID 57239 (/Users/trungnguyen/my_workspace/spring-microservices/microservices/review-service/build/classes/java/main started by trungnguyen in /Users/trungnguyen/my_workspace/spring-microservices)
+2022-10-16 22:49:58,812 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.4, Spring v5.3.23
+2022-10-16 22:49:58,812 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-16 22:49:59,312 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-10-16 22:49:59,416 INFO org.springframework.boot.web.embedded.netty.NettyWebServer [main] Netty started on port 7003
+2022-10-16 22:49:59,424 INFO org.springframework.boot.StartupInfoLogger [main] Started ReviewServiceApplication in 0.772 seconds (JVM running for 1.019)
